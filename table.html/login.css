@@ -1,0 +1,36 @@
+.log{
+    display: grid;
+    align-content: space-between;
+   
+    margin-top: 11%;
+    justify-content: center;
+    align-items: stretch;
+    justify-items: center;
+    border: 2px solid black ;
+    width: 40%;
+    margin-left: 30%
+}
+.main{
+    background-image: url(./file/Images/heaven.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main4{
+    background-image: url(file/Images/hell.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.main5{
+    color: aliceblue;
+    display: grid;
+    border: 1px solid beige;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 46%;
+    margin: auto;
+    gap: 1%;
+    justify-items: center;
+}
+   
+}
